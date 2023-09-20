@@ -2,3 +2,5 @@
 /cache
 /.ipynb_checkpoints
 /logs
+/Colab
+/_pycache
